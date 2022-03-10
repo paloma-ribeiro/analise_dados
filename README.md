@@ -15,6 +15,7 @@
 - numpy: 1.22.3
 - openpyxl: 3.0.9
 - pandas: 1.4.1
+- plotly: 5.6.0
 
 ### Instalação das depências
 > pip install -r requirements.txt
