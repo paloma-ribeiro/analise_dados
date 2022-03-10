@@ -1,6 +1,6 @@
 # analise_dados
 
-## Análise de Dados com Python - Hashtag Programação
+## Análise de Dados com Python
 
 ### Conteúdo
 - Análise de dados
