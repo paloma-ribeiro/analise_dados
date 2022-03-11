@@ -22,10 +22,10 @@
 - pandas: 1.4.1
 - plotly: 5.6.0
 
-### Instalação das depências
+### Instalação das dependências
 > pip install -r requirements.txt
 
-### Instalação das depências (forma alternativa)
+### Instalação das dependências (forma alternativa)
 #### pip install pandas
 #### pip install openpyxl
 ####  pip install plotly
